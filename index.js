@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["made by 5lyp","mf bot buyers","check review","cheap mf stuff"];
+const statusMessages = ["made by 5lyp","jxdfut","/claim daily","uwu"];
 
 
 let currentIndex = 0;
