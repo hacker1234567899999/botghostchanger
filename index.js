@@ -1,4 +1,4 @@
-
+ 
 
 
 
@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["made by 5lyp","jxdfut","/claim daily","uwu"];
+const statusMessages = ["made by 5lyp","envy service","cheap ","make a ticket"];
 
 
 let currentIndex = 0;
