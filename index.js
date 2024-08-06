@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["made by 5lyp","envy service","cheap ","make a ticket"];
+const statusMessages = ["claim your","3 invites =","free ","nitro"];
 
 
 let currentIndex = 0;
