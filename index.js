@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Dak Service","3 invites spotify method","cheap ","best market"];
+const statusMessages = ["Made by 5lyp","pumba's goods",];
 
 
 let currentIndex = 0;
