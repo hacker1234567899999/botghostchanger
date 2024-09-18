@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made by 5lyp","pumba's goods",];
+const statusMessages = [".gg/easyservice",".gg/easyservice",];
 
 
 let currentIndex = 0;
